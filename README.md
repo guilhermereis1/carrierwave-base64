@@ -75,10 +75,8 @@ File extention for the uploaded file is identified automatically based on the fi
 data:image/jpeg;base64,(base64 encoded data)
 ```
 
-## Contributing
+Guilherme Reis
 
-1. Fork it ( https://github.com/[my-github-username]/carrierwave-base64/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
